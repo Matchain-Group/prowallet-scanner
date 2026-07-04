@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+report.csv
+*_dump.txt
+wallet_dumps_*/
+*.dat
+.env
